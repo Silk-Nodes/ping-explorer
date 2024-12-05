@@ -1,12 +1,8 @@
 {
   "chain_name": "juno",
   "coingecko": "juno-network",
-  "api": [
-    "https://juno.api.silknodes.io"
-  ],
-  "rpc": [
-    "https://juno.rpc.silknodes.io"
-  ],
+  "api": ["https://juno.api.silknodes.io"],
+  "rpc": ["https://juno.rpc.silknodes.io:443"],
   "snapshot_provider": "",
   "sdk_version": "0.45.15",
   "coin_type": 118,

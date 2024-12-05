@@ -1,12 +1,8 @@
 {
   "chain_name": "jackal",
   "coingecko": "jackal-protocol",
-  "api": [
-    "https://jackal.api.silknodes.io"
-  ],
-  "rpc": [
-    "https://jackal.rpc.silknodes.io"
-  ],
+  "api": ["https://jackal.api.silknodes.io"],
+  "rpc": ["https://jackal.rpc.silknodes.io:443"],
   "snapshot_provider": "",
   "coin_type": 118,
   "sdk_version": "0.45.11",

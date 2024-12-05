@@ -2,16 +2,12 @@
   "chain_name": "dydx",
   "coingecko": "dydx-chain",
   "api": [
-    "https://dydx-lcd-testnet.enigma-validator.com",
-    "https://testnet-dydx-api.lavenderfive.com",
-    "hhttps://test-dydx-rest.kingnodes.com",
-    "https://dydx-testnet-api.polkachu.com"
+    "https://dydx.api.silknodes.io",
+    "https://dydx-mainnet-full-lcd.public.blastapi.io"
   ],
   "rpc": [
-    "https://dydx-rpc-testnet.enigma-validator.com",
-    "https://testnet-dydx-rpc.lavenderfive.com",
-    "https://test-dydx-rpc.kingnodes.com",
-    "https://dydx-testnet-rpc.polkachu.com"
+    "https://dydx.rpc.silknodes.io:443",
+    "https://dydx-mainnet-full-rpc.public.blastapi.io:443"
   ],
   "snapshot_provider": "",
   "coin_type": 118,
@@ -20,9 +16,9 @@
   "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dydx/images/dydx.png",
   "assets": [
     {
-      "base": "udydx",
+      "base": "adydx",
       "symbol": "DYDX",
-      "exponent": 6,
+      "exponent": 18,
       "coingecko_id": "dydx-chain",
       "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/dydx/images/dydx.png",
       "gasPriceStep": {

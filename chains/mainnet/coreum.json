@@ -1,13 +1,13 @@
 {
-  "chain_name": "Coreum",
+  "chain_name": "coreum",
   "coingecko": "coreum",
   "api": [
     "https://coreum.api.silknodes.io",
     "https://rest-coreum.ecostake.com"
   ],
   "rpc": [
-    "https://coreum.rpc.silknodes.io",
-    "https://rpc-coreum.ecostake.com"
+    "https://coreum.rpc.silknodes.io:443",
+    "https://rpc-coreum.ecostake.com:443"
   ],
   "snapshot_provider": "",
   "coin_type": 990,

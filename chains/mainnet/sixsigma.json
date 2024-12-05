@@ -1,12 +1,8 @@
 {
-  "chain_name": "Six Sigma",
+  "chain_name": "sge",
   "coingecko_id": "six-sigma",
-  "api": [
-    "https://sge.api.m.stavr.tech/"
-  ],
-  "rpc": [
-    "https://sge.rpc.m.stavr.tech/"
-  ],
+  "api": ["https://sge.api.m.stavr.tech/"],
+  "rpc": ["https://sge.rpc.m.stavr.tech:443"],
   "snapshot_provider": "",
   "sdk_version": "0.45.9",
   "coin_type": 118,

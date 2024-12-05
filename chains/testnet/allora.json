@@ -1,19 +1,23 @@
 {
-    "chain_name": "allora",
-    "api": [
-        "https://allora-rpc.testnet.allora.network",
-        "https://allora-rpc.sh.moonlet.cloud/public"
-    ],
-    "sdk_version": "0.50.10",
-    "addr_prefix": "allora",
-    "logo": "https://explorer.testnet.allora.network/chain-logos/allora.jpeg",
-    "assets": [
-        {
-            "base": "uallora",
-            "symbol": "ALLO",
-            "exponent": "6",
-            "coingecko_id": "",
-            "logo": "https://explorer.testnet.allora.network/chain-logos/allora.jpeg"
-        }
-    ]
+  "chain_name": "allora",
+  "api": [
+    "https://allora-api.testnet.allora.network",
+    "https://allora-api.sh.moonlet.cloud/public"
+  ],
+  "rpc": [
+    "https://allora-rpc.testnet.allora.network:443",
+    "https://allora-rpc.sh.moonlet.cloud:443/public"
+  ],
+  "sdk_version": "0.50.10",
+  "addr_prefix": "allora",
+  "logo": "https://explorer.testnet.allora.network/chain-logos/allora.jpeg",
+  "assets": [
+    {
+      "base": "uallo",
+      "symbol": "ALLO",
+      "exponent": "18",
+      "coingecko_id": "",
+      "logo": "https://explorer.testnet.allora.network/chain-logos/allora.jpeg"
+    }
+  ]
 }

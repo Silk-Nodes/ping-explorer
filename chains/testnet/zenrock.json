@@ -1,16 +1,17 @@
 {
-    "chain_name": "zenrock",
-    "api": "https://api.gardia.zenrocklabs.io/",
-    "sdk_version": "0.42.4",
-    "addr_prefix": "rock",
-    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/testnets/zenrocktestnet/images/zenrock.png",
-    "assets": [
-        {
-            "base": "urock",
-            "symbol": "ROCK",
-            "exponent": "6",
-            "coingecko_id": "",
-            "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/testnets/zenrocktestnet/images/zenrock.png"
-        }
-    ]
+  "chain_name": "zenrock",
+  "api": "https://api.gardia.zenrocklabs.io/",
+  "rpc": "https://rpc.gardia.zenrocklabs.io:443",
+  "sdk_version": "0.42.4",
+  "addr_prefix": "rock",
+  "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/testnets/zenrocktestnet/images/zenrock.png",
+  "assets": [
+    {
+      "base": "urock",
+      "symbol": "ROCK",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/testnets/zenrocktestnet/images/zenrock.png"
+    }
+  ]
 }

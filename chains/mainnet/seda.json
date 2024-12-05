@@ -1,12 +1,8 @@
 {
   "chain_name": "seda",
   "coingecko_id": "seda-2",
-  "api": [
-    "https://lcd.seda.bronbro.io/"
-  ],
-  "rpc": [
-    "https://rpc.seda.bronbro.io/"
-  ],
+  "api": ["https://lcd.seda.bronbro.io/"],
+  "rpc": ["https://rpc.seda.bronbro.io:443"],
   "snapshot_provider": "",
   "sdk_version": "0.45.9",
   "coin_type": 118,
@@ -15,9 +11,9 @@
   "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/seda/images/seda.png",
   "assets": [
     {
-      "base": "useda",
+      "base": "aseda",
       "symbol": "SEDA",
-      "exponent": 6,
+      "exponent": 18,
       "coingecko_id": "seda-2",
       "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/seda/images/seda.png",
       "gasPriceStep": {
