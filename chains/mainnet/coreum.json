@@ -1,0 +1,31 @@
+{
+  "chain_name": "Coreum",
+  "coingecko": "coreum",
+  "api": [
+    "https://coreum.api.silknodes.io",
+    "https://rest-coreum.ecostake.com"
+  ],
+  "rpc": [
+    "https://coreum.rpc.silknodes.io",
+    "https://rpc-coreum.ecostake.com"
+  ],
+  "snapshot_provider": "",
+  "coin_type": 990,
+  "sdk_version": "0.45.14",
+  "addr_prefix": "core",
+  "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/coreum/images/coreum.png",
+  "assets": [
+    {
+      "base": "ucore",
+      "symbol": "CORE",
+      "exponent": 6,
+      "coingecko_id": "coreum",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/coreum/images/coreum.png",
+      "gasPriceStep": {
+        "average": 0.25,
+        "high": 0.3,
+        "low": 0.1
+      }
+    }
+  ]
+}

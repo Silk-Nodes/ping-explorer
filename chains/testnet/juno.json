@@ -1,0 +1,23 @@
+{
+    "chain_name": "juno",
+    "coingecko": "juno-network",
+    "api": [
+        "https://juno.api.t.stavr.tech",
+        "https://juno-testnet-api.polkachu.com"
+    ],
+    "rpc": [
+        "https://juno-testnet-rpc.polkachu.com"
+    ],
+    "sdk_version": "0.42.4",
+    "addr_prefix": "juno",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png",
+    "assets": [
+        {
+            "base": "ujuno",
+            "symbol": "JUNO",
+            "exponent": "6",
+            "coingecko_id": "juno-network",
+            "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png"
+        }
+    ]
+}

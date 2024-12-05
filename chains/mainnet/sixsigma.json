@@ -1,0 +1,30 @@
+{
+  "chain_name": "Six Sigma",
+  "coingecko_id": "six-sigma",
+  "api": [
+    "https://sge.api.m.stavr.tech/"
+  ],
+  "rpc": [
+    "https://sge.rpc.m.stavr.tech/"
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.9",
+  "coin_type": 118,
+  "min_tx_fee": "5000",
+  "addr_prefix": "sge",
+  "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sge/images/sge.png",
+  "assets": [
+    {
+      "base": "usge",
+      "symbol": "SGE",
+      "exponent": 6,
+      "coingecko_id": "six-sigma",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/sge/images/sge.png",
+      "gasPriceStep": {
+        "average": 0.025,
+        "high": 0.03,
+        "low": 0.01
+      }
+    }
+  ]
+}

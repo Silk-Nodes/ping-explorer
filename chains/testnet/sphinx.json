@@ -1,0 +1,22 @@
+{
+    "chain_name": "sphinx",
+    "api": [
+        "https://rest1.sphx.dev",
+        "https://rest2.sphx.dev"
+    ],
+    "rpc": [
+        "https://rpc1.sphx.dev",
+        "https://rpc2.sphx.dev"
+    ],
+    "sdk_version": "0.42.4",
+    "addr_prefix": "sphx",
+    "logo": "https://cdn.prod.website-files.com/66c086bc040993453dc5c377/66dab4c82a291f82a107e45a_Group%20482728.png",
+    "assets": [
+        {
+            "base": "usphx",
+            "symbol": "SPHX",
+            "exponent": "6",
+            "logo": "https://cdn.prod.website-files.com/66c086bc040993453dc5c377/66dab4c82a291f82a107e45a_Group%20482728.png"
+        }
+    ]
+}

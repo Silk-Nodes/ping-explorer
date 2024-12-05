@@ -1,0 +1,30 @@
+{
+  "chain_name": "juno",
+  "coingecko": "juno-network",
+  "api": [
+    "https://juno.api.silknodes.io"
+  ],
+  "rpc": [
+    "https://juno.rpc.silknodes.io"
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.45.15",
+  "coin_type": 118,
+  "min_tx_fee": "3000",
+  "addr_prefix": "juno",
+  "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png",
+  "assets": [
+    {
+      "base": "ujuno",
+      "symbol": "JUNO",
+      "exponent": 6,
+      "coingecko_id": "juno-network",
+      "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/juno/images/juno.png",
+      "gasPriceStep": {
+        "average": 0.025,
+        "high": 0.03,
+        "low": 0.01
+      }
+    }
+  ]
+}
